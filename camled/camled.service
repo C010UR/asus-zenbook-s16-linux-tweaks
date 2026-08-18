@@ -4,7 +4,7 @@ After=multi-user.target
 
 [Service]
 Type=simple
-ExecStartPre=/bin/bash -c 'lsmod | grep -q asus_camled || insmod /usr/local/lib/modules/asus-camled.ko'
+ExecStartPre=/usr/bin/modprobe asus-camled
 ExecStart=/usr/local/bin/camled.py
 Restart=on-failure
 RestartSec=2
