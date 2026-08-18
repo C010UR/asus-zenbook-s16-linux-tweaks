@@ -1,0 +1,117 @@
+=== initial state ===
+camera USB authorized: 1
+camera USB power: auto
+camera USB runtime: suspended
+micmute LED: 0
+camera LED: none
+
+=== watching for 30s - press Fn+F9 and Fn+F10 ===
+
+watching /dev/input/event12 (Asus WMI hotkeys)
+KEY: Input driver version is 1.0.1
+KEY: Input device ID: bus 0x19 vendor 0x0 product 0x0 version 0x0
+KEY: Input device name: "Asus WMI hotkeys"
+KEY: Supported events:
+KEY: Event type 0 (EV_SYN)
+KEY: Event type 1 (EV_KEY)
+KEY: Event code 113 (KEY_MUTE)
+KEY: Event code 114 (KEY_VOLUMEDOWN)
+KEY: Event code 115 (KEY_VOLUMEUP)
+KEY: Event code 140 (KEY_CALC)
+KEY: Event code 148 (KEY_PROG1)
+KEY: Event code 149 (KEY_PROG2)
+KEY: Event code 150 (KEY_WWW)
+KEY: Event code 152 (KEY_SCREENLOCK)
+KEY: Event code 163 (KEY_NEXTSONG)
+KEY: Event code 164 (KEY_PLAYPAUSE)
+KEY: Event code 165 (KEY_PREVIOUSSONG)
+KEY: Event code 166 (KEY_STOPCD)
+KEY: Event code 169 (KEY_PHONE)
+KEY: Event code 183 (KEY_F13)
+KEY: Event code 184 (KEY_F14)
+KEY: Event code 185 (KEY_F15)
+KEY: Event code 202 (KEY_PROG3)
+KEY: Event code 203 (KEY_PROG4)
+KEY: Event code 212 (KEY_CAMERA)
+KEY: Event code 215 (KEY_EMAIL)
+KEY: Event code 224 (KEY_BRIGHTNESSDOWN)
+KEY: Event code 225 (KEY_BRIGHTNESSUP)
+KEY: Event code 226 (KEY_MEDIA)
+KEY: Event code 227 (KEY_SWITCHVIDEOMODE)
+KEY: Event code 229 (KEY_KBDILLUMDOWN)
+KEY: Event code 230 (KEY_KBDILLUMUP)
+KEY: Event code 237 (KEY_BLUETOOTH)
+KEY: Event code 238 (KEY_WLAN)
+KEY: Event code 240 (KEY_UNKNOWN)
+KEY: Event code 247 (KEY_RFKILL)
+KEY: Event code 248 (KEY_MICMUTE)
+KEY: Event code 431 (KEY_DISPLAYTOGGLE)
+KEY: Event code 470 (KEY_FN_F5)
+KEY: Event code 482 (KEY_FN_F)
+KEY: Event code 530 (KEY_TOUCHPAD_TOGGLE)
+KEY: Event code 531 (KEY_TOUCHPAD_ON)
+KEY: Event code 560 (KEY_ALS_TOGGLE)
+KEY: Event code 634 (KEY_SELECTIVE_SCREENSHOT)
+KEY: Event type 4 (EV_MSC)
+KEY: Event code 4 (MSC_SCAN)
+KEY: Key repeat handling:
+KEY: Repeat type 20 (EV_REP)
+KEY: Repeat code 0 (REP_DELAY)
+KEY: Value    250
+KEY: Repeat code 1 (REP_PERIOD)
+KEY: Value     33
+KEY: Properties:
+KEY: Testing ... (interrupt to exit)
+t=1s auth=1 micled=0 camled=none
+t=2s auth=1 micled=0 camled=none
+t=3s auth=1 micled=0 camled=none
+KEY: Event: time 1787085261.957767, type 4 (EV_MSC), code 4 (MSC_SCAN), value 7c
+KEY: Event: time 1787085261.957767, type 1 (EV_KEY), code 248 (KEY_MICMUTE), value 1
+KEY: Event: time 1787085261.957767, -------------- SYN_REPORT ------------
+KEY: Event: time 1787085261.957770, type 1 (EV_KEY), code 248 (KEY_MICMUTE), value 0
+KEY: Event: time 1787085261.957770, -------------- SYN_REPORT ------------
+t=4s auth=1 micled=0 camled=none
+t=5s auth=1 micled=0 camled=none
+KEY: Event: time 1787085263.537716, type 4 (EV_MSC), code 4 (MSC_SCAN), value 7c
+KEY: Event: time 1787085263.537716, type 1 (EV_KEY), code 248 (KEY_MICMUTE), value 1
+KEY: Event: time 1787085263.537716, -------------- SYN_REPORT ------------
+KEY: Event: time 1787085263.537718, type 1 (EV_KEY), code 248 (KEY_MICMUTE), value 0
+KEY: Event: time 1787085263.537718, -------------- SYN_REPORT ------------
+t=6s auth=1 micled=0 camled=none
+KEY: Event: time 1787085264.371722, type 4 (EV_MSC), code 4 (MSC_SCAN), value 85
+KEY: Event: time 1787085264.371722, type 1 (EV_KEY), code 212 (KEY_CAMERA), value 1
+KEY: Event: time 1787085264.371722, -------------- SYN_REPORT ------------
+KEY: Event: time 1787085264.371725, type 1 (EV_KEY), code 212 (KEY_CAMERA), value 0
+KEY: Event: time 1787085264.371725, -------------- SYN_REPORT ------------
+t=7s auth=1 micled=0 camled=none
+KEY: Event: time 1787085265.799788, type 4 (EV_MSC), code 4 (MSC_SCAN), value 85
+KEY: Event: time 1787085265.799788, type 1 (EV_KEY), code 212 (KEY_CAMERA), value 1
+KEY: Event: time 1787085265.799788, -------------- SYN_REPORT ------------
+KEY: Event: time 1787085265.799791, type 1 (EV_KEY), code 212 (KEY_CAMERA), value 0
+KEY: Event: time 1787085265.799791, -------------- SYN_REPORT ------------
+t=8s auth=1 micled=0 camled=none
+KEY: Event: time 1787085266.423796, type 4 (EV_MSC), code 4 (MSC_SCAN), value 85
+KEY: Event: time 1787085266.423796, type 1 (EV_KEY), code 212 (KEY_CAMERA), value 1
+KEY: Event: time 1787085266.423796, -------------- SYN_REPORT ------------
+KEY: Event: time 1787085266.423802, type 1 (EV_KEY), code 212 (KEY_CAMERA), value 0
+KEY: Event: time 1787085266.423802, -------------- SYN_REPORT ------------
+KEY: Event: time 1787085266.892786, type 4 (EV_MSC), code 4 (MSC_SCAN), value 85
+KEY: Event: time 1787085266.892786, type 1 (EV_KEY), code 212 (KEY_CAMERA), value 1
+KEY: Event: time 1787085266.892786, -------------- SYN_REPORT ------------
+KEY: Event: time 1787085266.892790, type 1 (EV_KEY), code 212 (KEY_CAMERA), value 0
+KEY: Event: time 1787085266.892790, -------------- SYN_REPORT ------------
+t=9s auth=1 micled=0 camled=none
+KEY: Event: time 1787085267.302764, type 4 (EV_MSC), code 4 (MSC_SCAN), value 7c
+KEY: Event: time 1787085267.302764, type 1 (EV_KEY), code 248 (KEY_MICMUTE), value 1
+KEY: Event: time 1787085267.302764, -------------- SYN_REPORT ------------
+KEY: Event: time 1787085267.302767, type 1 (EV_KEY), code 248 (KEY_MICMUTE), value 0
+KEY: Event: time 1787085267.302767, -------------- SYN_REPORT ------------
+KEY: Event: time 1787085267.693772, type 4 (EV_MSC), code 4 (MSC_SCAN), value 7c
+KEY: Event: time 1787085267.693772, type 1 (EV_KEY), code 248 (KEY_MICMUTE), value 1
+KEY: Event: time 1787085267.693772, -------------- SYN_REPORT ------------
+KEY: Event: time 1787085267.693779, type 1 (EV_KEY), code 248 (KEY_MICMUTE), value 0
+KEY: Event: time 1787085267.693779, -------------- SYN_REPORT ------------
+t=10s auth=1 micled=0 camled=none
+t=11s auth=1 micled=0 camled=none
+t=12s auth=1 micled=0 camled=none
+t=13s auth=1 micled=0 camled=none

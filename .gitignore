@@ -2,6 +2,22 @@
 tpfilter/tpfilter
 tpfilter/grab_probe
 
+# Kernel module build artifacts
+*.ko
+*.o
+*.mod
+*.mod.c
+*.cmd
+Module.symvers
+modules.order
+.module-common.o
+
+# ACPI table dumps (re-dumpable from /sys/firmware/acpi/tables)
+analysis/39-*.bin
+
+# Large debug log from far-edge rule tuning
+analysis/34-tpfilter-faredge.log
+
 # Windows driver package (re-downloadable, 6MB binary)
 PrecisionTouchPad_DCH_ASUS_Z_V16.0.0.41_47015.exe
 

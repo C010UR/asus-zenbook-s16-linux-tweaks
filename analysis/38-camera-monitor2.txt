@@ -1,0 +1,78 @@
+=== initial ===
+privacy: privacy: 0
+camera authorized: 1
+camera runtime: active
+
+watching /dev/input/event12 (no grab) for 25s - PRESS Fn+F10 a few times
+
+    Event code 212 (KEY_CAMERA)
+    Event code 248 (KEY_MICMUTE)
+    Event code 4 (MSC_SCAN)
+t=1s privacy=0 auth=1 runtime=active micled=0
+Event: time 1787085655.946734, type 4 (EV_MSC), code 4 (MSC_SCAN), value 85
+Event: time 1787085655.946734, type 1 (EV_KEY), code 212 (KEY_CAMERA), value 1
+Event: time 1787085655.946747, type 1 (EV_KEY), code 212 (KEY_CAMERA), value 0
+t=2s privacy=1 auth=1 runtime=active micled=0
+Event: time 1787085656.831754, type 4 (EV_MSC), code 4 (MSC_SCAN), value 85
+Event: time 1787085656.831754, type 1 (EV_KEY), code 212 (KEY_CAMERA), value 1
+Event: time 1787085656.831767, type 1 (EV_KEY), code 212 (KEY_CAMERA), value 0
+t=3s privacy=0 auth=1 runtime=active micled=0
+Event: time 1787085657.761788, type 4 (EV_MSC), code 4 (MSC_SCAN), value 85
+Event: time 1787085657.761788, type 1 (EV_KEY), code 212 (KEY_CAMERA), value 1
+Event: time 1787085657.761806, type 1 (EV_KEY), code 212 (KEY_CAMERA), value 0
+Event: time 1787085658.559778, type 4 (EV_MSC), code 4 (MSC_SCAN), value 85
+Event: time 1787085658.559778, type 1 (EV_KEY), code 212 (KEY_CAMERA), value 1
+Event: time 1787085658.559795, type 1 (EV_KEY), code 212 (KEY_CAMERA), value 0
+t=4s privacy=0 auth=1 runtime=active micled=0
+Event: time 1787085659.267718, type 4 (EV_MSC), code 4 (MSC_SCAN), value 85
+Event: time 1787085659.267718, type 1 (EV_KEY), code 212 (KEY_CAMERA), value 1
+Event: time 1787085659.267731, type 1 (EV_KEY), code 212 (KEY_CAMERA), value 0
+t=5s privacy=1 auth=1 runtime=active micled=0
+Event: time 1787085659.721723, type 4 (EV_MSC), code 4 (MSC_SCAN), value 85
+Event: time 1787085659.721723, type 1 (EV_KEY), code 212 (KEY_CAMERA), value 1
+Event: time 1787085659.721735, type 1 (EV_KEY), code 212 (KEY_CAMERA), value 0
+Event: time 1787085660.396702, type 4 (EV_MSC), code 4 (MSC_SCAN), value 85
+Event: time 1787085660.396702, type 1 (EV_KEY), code 212 (KEY_CAMERA), value 1
+Event: time 1787085660.396714, type 1 (EV_KEY), code 212 (KEY_CAMERA), value 0
+t=6s privacy=1 auth=1 runtime=active micled=0
+Event: time 1787085660.858733, type 4 (EV_MSC), code 4 (MSC_SCAN), value 85
+Event: time 1787085660.858733, type 1 (EV_KEY), code 212 (KEY_CAMERA), value 1
+Event: time 1787085660.858746, type 1 (EV_KEY), code 212 (KEY_CAMERA), value 0
+Event: time 1787085661.336792, type 4 (EV_MSC), code 4 (MSC_SCAN), value 85
+Event: time 1787085661.336792, type 1 (EV_KEY), code 212 (KEY_CAMERA), value 1
+Event: time 1787085661.336807, type 1 (EV_KEY), code 212 (KEY_CAMERA), value 0
+Event: time 1787085661.657717, type 4 (EV_MSC), code 4 (MSC_SCAN), value 85
+Event: time 1787085661.657717, type 1 (EV_KEY), code 212 (KEY_CAMERA), value 1
+Event: time 1787085661.657725, type 1 (EV_KEY), code 212 (KEY_CAMERA), value 0
+t=7s privacy=0 auth=1 runtime=active micled=0
+Event: time 1787085662.250719, type 4 (EV_MSC), code 4 (MSC_SCAN), value 85
+Event: time 1787085662.250719, type 1 (EV_KEY), code 212 (KEY_CAMERA), value 1
+Event: time 1787085662.250731, type 1 (EV_KEY), code 212 (KEY_CAMERA), value 0
+Event: time 1787085662.595700, type 4 (EV_MSC), code 4 (MSC_SCAN), value 85
+Event: time 1787085662.595700, type 1 (EV_KEY), code 212 (KEY_CAMERA), value 1
+Event: time 1787085662.595716, type 1 (EV_KEY), code 212 (KEY_CAMERA), value 0
+t=8s privacy=0 auth=1 runtime=active micled=0
+t=9s privacy=0 auth=1 runtime=active micled=0
+t=10s privacy=0 auth=1 runtime=active micled=0
+t=11s privacy=0 auth=1 runtime=active micled=0
+t=12s privacy=0 auth=1 runtime=active micled=0
+Event: time 1787085667.541726, type 4 (EV_MSC), code 4 (MSC_SCAN), value 7c
+Event: time 1787085667.541726, type 1 (EV_KEY), code 248 (KEY_MICMUTE), value 1
+Event: time 1787085667.541742, type 1 (EV_KEY), code 248 (KEY_MICMUTE), value 0
+Event: time 1787085667.736790, type 4 (EV_MSC), code 4 (MSC_SCAN), value 7c
+Event: time 1787085667.736790, type 1 (EV_KEY), code 248 (KEY_MICMUTE), value 1
+Event: time 1787085667.736806, type 1 (EV_KEY), code 248 (KEY_MICMUTE), value 0
+t=13s privacy=0 auth=1 runtime=active micled=0
+t=14s privacy=0 auth=1 runtime=active micled=0
+t=15s privacy=0 auth=1 runtime=active micled=0
+t=16s privacy=0 auth=1 runtime=active micled=0
+t=17s privacy=0 auth=1 runtime=active micled=0
+t=18s privacy=0 auth=1 runtime=active micled=0
+t=19s privacy=0 auth=1 runtime=active micled=0
+t=20s privacy=0 auth=1 runtime=active micled=0
+t=21s privacy=0 auth=1 runtime=active micled=0
+t=22s privacy=0 auth=1 runtime=active micled=0
+t=23s privacy=0 auth=1 runtime=active micled=0
+t=24s privacy=0 auth=1 runtime=active micled=0
+t=25s privacy=0 auth=1 runtime=active micled=0
+=== done ===
