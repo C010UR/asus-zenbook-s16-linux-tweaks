@@ -1,0 +1,12 @@
+[Unit]
+Description=ASUS Precision Touchpad palm-rejection filter
+After=systemd-udevd.service
+
+[Service]
+Type=simple
+ExecStart=/usr/local/bin/tpfilter --no-fork
+Restart=always
+RestartSec=2
+
+[Install]
+WantedBy=multi-user.target

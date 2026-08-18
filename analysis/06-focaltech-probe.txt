@@ -1,0 +1,32 @@
+== opening /dev/hidraw4
+manufacturer: 
+product: ASUF1209:00 2808:0219
+
+== baseline feature report reads ==
+  report 0x0B (128B): 
+  report 0x0C (33B): 
+  report 0x0D: ERROR read error
+  report 0x0E (4B): 0e020100
+  report 0x06: ERROR read error
+
+== ReadRegister via send_feature_report (report 0x06) ==
+  send 0xA6 (FwVersion1): ok (63 bytes)
+    resp: 06ffff0750a603f3ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+  send 0xAD (FwVersion2): ok (63 bytes)
+    resp: 06ffff0750ad01fcffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+  send 0x9F (VerifyId1): ok (63 bytes)
+    resp: 06ffff07509f529bffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+  send 0xA3 (VerifyId2): ok (63 bytes)
+    resp: 06ffff0750a354a1ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+
+== ReadRegister via output write (device.write) ==
+  write 0xA6 (FwVersion1): ok (62 bytes)
+    input: 
+  write 0xAD (FwVersion2): ok (62 bytes)
+    input: 
+
+== re-read vendor feature reports after commands ==
+  report 0x0B: ERROR read error
+  report 0x0C: 
+  report 0x0D: ERROR read error
+  report 0x0E: 0e020100

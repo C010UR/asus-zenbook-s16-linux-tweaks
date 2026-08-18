@@ -1,0 +1,8 @@
+capturing on /dev/hidraw4 for 6s
+t=0s >>> ONE FINGER: slow movements
+t=1s >>> ONE FINGER: slow movements
+t=2s >>> ONE FINGER: slow movements
+t=3s >>> ONE FINGER: slow movements
+t=4s >>> ONE FINGER: slow movements
+t=5s >>> ONE FINGER: slow movements
+done

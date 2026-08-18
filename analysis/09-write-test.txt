@@ -1,0 +1,18 @@
+== WriteRegister round-trip on unused registers ==
+  reg 0x7E: orig=0xFF
+    wrote 0x00 -> read 0xFF
+    restored -> 0xFF
+  reg 0x7D: orig=0xFF
+    wrote 0x00 -> read 0xFF
+    restored -> 0xFF
+  reg 0x0A: orig=0xFF
+    wrote 0x00 -> read 0xFF
+    restored -> 0xFF
+
+== write/read 128-byte vendor report 0x0B ==
+  wrote report 0x0B: 128 bytes
+  read report 0x0B failed: read error
+
+== write/read report 0x0C (c6+c7) ==
+  wrote report 0x0C: 34 bytes
+  read back: ... len=0

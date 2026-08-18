@@ -1,0 +1,10 @@
+# Build artifacts
+tpfilter/tpfilter
+tpfilter/grab_probe
+
+# Windows driver package (re-downloadable, 6MB binary)
+PrecisionTouchPad_DCH_ASUS_Z_V16.0.0.41_47015.exe
+
+# Editor/OS
+*.swp
+.DS_Store

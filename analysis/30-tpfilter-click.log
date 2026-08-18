@@ -1,0 +1,2259 @@
+touchpad: x[0..4762] y[0..3099] res=32,32 slots=5
+palm: bottom_zone=1200 edge_left=476 edge_right=4285 spread=400
+virtual device created: ASUF1209 Palm Filtered Touchpad
+grabbed source device (exclusive)
+ev: ABS code=57 val=58 (slot=0)
+ev: ABS code=53 val=686 (slot=0)
+ev: ABS code=54 val=3062 (slot=0)
+ev: KEY code=0x14a val=1
+ev: KEY code=0x145 val=1
+ev: ABS code=0 val=686 (slot=0)
+ev: ABS code=1 val=3062 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (686,3062) [filtered=0]
+ev: ABS code=53 val=687 (slot=0)
+ev: ABS code=54 val=3060 (slot=0)
+ev: ABS code=0 val=687 (slot=0)
+ev: ABS code=1 val=3060 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (687,3060) [filtered=0]
+ev: ABS code=53 val=688 (slot=0)
+ev: ABS code=54 val=3059 (slot=0)
+ev: KEY code=0x110 val=1
+ev: ABS code=0 val=688 (slot=0)
+ev: ABS code=1 val=3059 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (688,3059) [filtered=0]
+ev: ABS code=53 val=690 (slot=0)
+ev: ABS code=54 val=3055 (slot=0)
+ev: ABS code=0 val=690 (slot=0)
+ev: ABS code=1 val=3055 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (690,3055) [filtered=0]
+ev: ABS code=53 val=693 (slot=0)
+ev: ABS code=54 val=3049 (slot=0)
+ev: ABS code=0 val=693 (slot=0)
+ev: ABS code=1 val=3049 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (693,3049) [filtered=0]
+ev: ABS code=53 val=697 (slot=0)
+ev: ABS code=54 val=3043 (slot=0)
+ev: ABS code=0 val=697 (slot=0)
+ev: ABS code=1 val=3043 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (697,3043) [filtered=0]
+ev: ABS code=53 val=699 (slot=0)
+ev: ABS code=54 val=3038 (slot=0)
+ev: ABS code=0 val=699 (slot=0)
+ev: ABS code=1 val=3038 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (699,3038) [filtered=0]
+ev: ABS code=53 val=702 (slot=0)
+ev: ABS code=54 val=3032 (slot=0)
+ev: ABS code=0 val=702 (slot=0)
+ev: ABS code=1 val=3032 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (702,3032) [filtered=0]
+ev: ABS code=53 val=705 (slot=0)
+ev: ABS code=54 val=3026 (slot=0)
+ev: ABS code=0 val=705 (slot=0)
+ev: ABS code=1 val=3026 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (705,3026) [filtered=0]
+ev: ABS code=53 val=708 (slot=0)
+ev: ABS code=54 val=3020 (slot=0)
+ev: ABS code=0 val=708 (slot=0)
+ev: ABS code=1 val=3020 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (708,3020) [filtered=0]
+ev: ABS code=53 val=711 (slot=0)
+ev: ABS code=54 val=3015 (slot=0)
+ev: ABS code=0 val=711 (slot=0)
+ev: ABS code=1 val=3015 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (711,3015) [filtered=0]
+ev: ABS code=53 val=713 (slot=0)
+ev: ABS code=54 val=3011 (slot=0)
+ev: ABS code=0 val=713 (slot=0)
+ev: ABS code=1 val=3011 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (713,3011) [filtered=0]
+ev: ABS code=53 val=716 (slot=0)
+ev: ABS code=54 val=3006 (slot=0)
+ev: ABS code=0 val=716 (slot=0)
+ev: ABS code=1 val=3006 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (716,3006) [filtered=0]
+ev: ABS code=53 val=718 (slot=0)
+ev: ABS code=54 val=3002 (slot=0)
+ev: ABS code=0 val=718 (slot=0)
+ev: ABS code=1 val=3002 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (718,3002) [filtered=0]
+ev: ABS code=53 val=719 (slot=0)
+ev: ABS code=54 val=2998 (slot=0)
+ev: ABS code=0 val=719 (slot=0)
+ev: ABS code=1 val=2998 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (719,2998) [filtered=0]
+ev: ABS code=53 val=721 (slot=0)
+ev: ABS code=54 val=2994 (slot=0)
+ev: ABS code=0 val=721 (slot=0)
+ev: ABS code=1 val=2994 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (721,2994) [filtered=0]
+ev: ABS code=53 val=722 (slot=0)
+ev: ABS code=54 val=2991 (slot=0)
+ev: ABS code=0 val=722 (slot=0)
+ev: ABS code=1 val=2991 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (722,2991) [filtered=0]
+ev: ABS code=53 val=723 (slot=0)
+ev: ABS code=54 val=2989 (slot=0)
+ev: ABS code=0 val=723 (slot=0)
+ev: ABS code=1 val=2989 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (723,2989) [filtered=0]
+ev: ABS code=54 val=2987 (slot=0)
+ev: ABS code=1 val=2987 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (723,2987) [filtered=0]
+ev: ABS code=53 val=724 (slot=0)
+ev: ABS code=54 val=2984 (slot=0)
+ev: ABS code=0 val=724 (slot=0)
+ev: ABS code=1 val=2984 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (724,2984) [filtered=0]
+ev: ABS code=54 val=2982 (slot=0)
+ev: ABS code=1 val=2982 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (724,2982) [filtered=0]
+ev: ABS code=54 val=2981 (slot=0)
+ev: ABS code=1 val=2981 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (724,2981) [filtered=0]
+ev: ABS code=53 val=725 (slot=0)
+ev: ABS code=54 val=2980 (slot=0)
+ev: ABS code=0 val=725 (slot=0)
+ev: ABS code=1 val=2980 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (725,2980) [filtered=0]
+ev: ABS code=53 val=726 (slot=0)
+ev: ABS code=54 val=2978 (slot=0)
+ev: ABS code=0 val=726 (slot=0)
+ev: ABS code=1 val=2978 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (726,2978) [filtered=0]
+ev: ABS code=54 val=2976 (slot=0)
+ev: ABS code=1 val=2976 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (726,2976) [filtered=0]
+ev: ABS code=54 val=2975 (slot=0)
+ev: ABS code=1 val=2975 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (726,2975) [filtered=0]
+ev: ABS code=54 val=2973 (slot=0)
+ev: ABS code=1 val=2973 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (726,2973) [filtered=0]
+ev: ABS code=54 val=2972 (slot=0)
+ev: ABS code=1 val=2972 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (726,2972) [filtered=0]
+ev: ABS code=54 val=2970 (slot=0)
+ev: ABS code=1 val=2970 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (726,2970) [filtered=0]
+ev: ABS code=54 val=2969 (slot=0)
+ev: ABS code=1 val=2969 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (726,2969) [filtered=0]
+ev: ABS code=54 val=2968 (slot=0)
+ev: ABS code=1 val=2968 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (726,2968) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (726,2968) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (726,2968) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (726,2968) [filtered=0]
+ev: KEY code=0x110 val=0
+ev: SYN code=0
+cnt=1 s0=fng (726,2968) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (726,2968) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (726,2968) [filtered=0]
+ev: ABS code=53 val=725 (slot=0)
+ev: ABS code=0 val=725 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (725,2968) [filtered=0]
+ev: ABS code=53 val=724 (slot=0)
+ev: ABS code=54 val=2969 (slot=0)
+ev: ABS code=0 val=724 (slot=0)
+ev: ABS code=1 val=2969 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (724,2969) [filtered=0]
+ev: ABS code=53 val=723 (slot=0)
+ev: ABS code=54 val=2971 (slot=0)
+ev: ABS code=0 val=723 (slot=0)
+ev: ABS code=1 val=2971 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (723,2971)* [filtered=0]
+ev: ABS code=53 val=722 (slot=0)
+ev: ABS code=54 val=2972 (slot=0)
+ev: ABS code=0 val=722 (slot=0)
+ev: ABS code=1 val=2972 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (722,2972)* [filtered=0]
+ev: ABS code=53 val=720 (slot=0)
+ev: ABS code=54 val=2975 (slot=0)
+ev: ABS code=0 val=720 (slot=0)
+ev: ABS code=1 val=2975 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (720,2975) [filtered=0]
+ev: ABS code=53 val=717 (slot=0)
+ev: ABS code=54 val=2979 (slot=0)
+ev: ABS code=0 val=717 (slot=0)
+ev: ABS code=1 val=2979 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (717,2979) [filtered=0]
+ev: ABS code=53 val=714 (slot=0)
+ev: ABS code=54 val=2983 (slot=0)
+ev: ABS code=0 val=714 (slot=0)
+ev: ABS code=1 val=2983 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (714,2983) [filtered=0]
+ev: ABS code=57 val=-1 (slot=0)
+ev: KEY code=0x14a val=0
+ev: KEY code=0x145 val=0
+ev: SYN code=0
+ev: ABS code=57 val=59 (slot=0)
+ev: ABS code=53 val=2585 (slot=0)
+ev: ABS code=54 val=2662 (slot=0)
+ev: KEY code=0x14a val=1
+ev: KEY code=0x145 val=1
+ev: ABS code=0 val=2585 (slot=0)
+ev: ABS code=1 val=2662 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (2585,2662) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (2585,2662) [filtered=0]
+ev: ABS code=54 val=2661 (slot=0)
+ev: ABS code=1 val=2661 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (2585,2661) [filtered=0]
+ev: ABS code=54 val=2660 (slot=0)
+ev: ABS code=1 val=2660 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (2585,2660) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (2585,2660) [filtered=0]
+ev: ABS code=54 val=2659 (slot=0)
+ev: ABS code=1 val=2659 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (2585,2659) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (2585,2659) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (2585,2659) [filtered=0]
+ev: ABS code=54 val=2658 (slot=0)
+ev: ABS code=1 val=2658 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (2585,2658) [filtered=0]
+ev: KEY code=0x110 val=1
+ev: SYN code=0
+cnt=1 s0=fng (2585,2658) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (2585,2658) [filtered=0]
+ev: ABS code=54 val=2657 (slot=0)
+ev: ABS code=1 val=2657 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (2585,2657) [filtered=0]
+ev: ABS code=53 val=2584 (slot=0)
+ev: ABS code=54 val=2656 (slot=0)
+ev: ABS code=0 val=2584 (slot=0)
+ev: ABS code=1 val=2656 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (2584,2656) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (2584,2656) [filtered=0]
+ev: ABS code=53 val=2583 (slot=0)
+ev: ABS code=0 val=2583 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (2583,2656) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (2583,2656) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (2583,2656) [filtered=0]
+ev: ABS code=53 val=2582 (slot=0)
+ev: ABS code=0 val=2582 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (2582,2656) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (2582,2656) [filtered=0]
+ev: ABS code=53 val=2581 (slot=0)
+ev: ABS code=0 val=2581 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (2581,2656) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (2581,2656)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (2581,2656)* [filtered=0]
+ev: ABS code=53 val=2580 (slot=0)
+ev: ABS code=0 val=2580 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (2580,2656)* [filtered=0]
+ev: ABS code=53 val=2579 (slot=0)
+ev: ABS code=0 val=2579 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (2579,2656)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (2579,2656)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (2579,2656)* [filtered=0]
+ev: ABS code=53 val=2578 (slot=0)
+ev: ABS code=0 val=2578 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (2578,2656)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (2578,2656)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (2578,2656)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (2578,2656)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (2578,2656)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (2578,2656)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (2578,2656)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (2578,2656)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (2578,2656)* [filtered=0]
+ev: ABS code=53 val=2579 (slot=0)
+ev: ABS code=0 val=2579 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (2579,2656)* [filtered=0]
+ev: ABS code=53 val=2580 (slot=0)
+ev: KEY code=0x110 val=0
+ev: ABS code=0 val=2580 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (2580,2656)* [filtered=0]
+ev: ABS code=53 val=2581 (slot=0)
+ev: ABS code=0 val=2581 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (2581,2656)* [filtered=0]
+ev: ABS code=53 val=2583 (slot=0)
+ev: ABS code=0 val=2583 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (2583,2656)* [filtered=0]
+ev: ABS code=53 val=2584 (slot=0)
+ev: ABS code=0 val=2584 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (2584,2656)* [filtered=0]
+ev: ABS code=53 val=2586 (slot=0)
+ev: ABS code=0 val=2586 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (2586,2656)* [filtered=0]
+ev: ABS code=53 val=2590 (slot=0)
+ev: ABS code=0 val=2590 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (2590,2656) [filtered=0]
+ev: ABS code=53 val=2595 (slot=0)
+ev: ABS code=0 val=2595 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (2595,2656) [filtered=0]
+ev: ABS code=53 val=2599 (slot=0)
+ev: ABS code=0 val=2599 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (2599,2656) [filtered=0]
+ev: ABS code=53 val=2604 (slot=0)
+ev: ABS code=0 val=2604 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (2604,2656) [filtered=0]
+ev: ABS code=57 val=-1 (slot=0)
+ev: KEY code=0x14a val=0
+ev: KEY code=0x145 val=0
+ev: SYN code=0
+ev: ABS code=57 val=60 (slot=0)
+ev: ABS code=53 val=4159 (slot=0)
+ev: ABS code=54 val=2707 (slot=0)
+ev: KEY code=0x14a val=1
+ev: KEY code=0x145 val=1
+ev: ABS code=0 val=4159 (slot=0)
+ev: ABS code=1 val=2707 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4159,2707) [filtered=0]
+ev: KEY code=0x110 val=1
+ev: SYN code=0
+cnt=1 s0=fng (4159,2707) [filtered=0]
+ev: ABS code=54 val=2706 (slot=0)
+ev: ABS code=1 val=2706 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4159,2706) [filtered=0]
+ev: ABS code=54 val=2705 (slot=0)
+ev: ABS code=1 val=2705 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4159,2705) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4159,2705) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4159,2705) [filtered=0]
+ev: ABS code=54 val=2704 (slot=0)
+ev: ABS code=1 val=2704 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4159,2704) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4159,2704) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4159,2704) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4159,2704) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4159,2704) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4159,2704) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4159,2704) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4159,2704) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4159,2704) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4159,2704) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4159,2704) [filtered=0]
+ev: ABS code=53 val=4160 (slot=0)
+ev: ABS code=0 val=4160 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4160,2704) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4160,2704) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4160,2704) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4160,2704)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4160,2704)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4160,2704)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4160,2704)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4160,2704)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4160,2704)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4160,2704)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4160,2704)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4160,2704)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4160,2704)* [filtered=0]
+ev: ABS code=54 val=2703 (slot=0)
+ev: ABS code=1 val=2703 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4160,2703)* [filtered=0]
+ev: ABS code=54 val=2702 (slot=0)
+ev: ABS code=1 val=2702 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4160,2702)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4160,2702)* [filtered=0]
+ev: ABS code=54 val=2701 (slot=0)
+ev: ABS code=1 val=2701 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4160,2701)* [filtered=0]
+ev: ABS code=54 val=2699 (slot=0)
+ev: ABS code=1 val=2699 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4160,2699)* [filtered=0]
+ev: ABS code=54 val=2698 (slot=0)
+ev: ABS code=1 val=2698 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4160,2698)* [filtered=0]
+ev: ABS code=54 val=2697 (slot=0)
+ev: KEY code=0x110 val=0
+ev: ABS code=1 val=2697 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4160,2697)* [filtered=0]
+ev: ABS code=54 val=2696 (slot=0)
+ev: ABS code=1 val=2696 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4160,2696)* [filtered=0]
+ev: ABS code=54 val=2695 (slot=0)
+ev: ABS code=1 val=2695 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4160,2695)* [filtered=0]
+ev: ABS code=54 val=2694 (slot=0)
+ev: ABS code=1 val=2694 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4160,2694)* [filtered=0]
+ev: ABS code=53 val=4161 (slot=0)
+ev: ABS code=54 val=2693 (slot=0)
+ev: ABS code=0 val=4161 (slot=0)
+ev: ABS code=1 val=2693 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4161,2693)* [filtered=0]
+ev: ABS code=53 val=4162 (slot=0)
+ev: ABS code=54 val=2692 (slot=0)
+ev: ABS code=0 val=4162 (slot=0)
+ev: ABS code=1 val=2692 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4162,2692)* [filtered=0]
+ev: ABS code=53 val=4164 (slot=0)
+ev: ABS code=0 val=4164 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4164,2692)* [filtered=0]
+ev: ABS code=53 val=4167 (slot=0)
+ev: ABS code=54 val=2691 (slot=0)
+ev: ABS code=0 val=4167 (slot=0)
+ev: ABS code=1 val=2691 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4167,2691) [filtered=0]
+ev: ABS code=53 val=4170 (slot=0)
+ev: ABS code=54 val=2690 (slot=0)
+ev: ABS code=0 val=4170 (slot=0)
+ev: ABS code=1 val=2690 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4170,2690) [filtered=0]
+ev: ABS code=53 val=4173 (slot=0)
+ev: ABS code=0 val=4173 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4173,2690) [filtered=0]
+ev: ABS code=53 val=4175 (slot=0)
+ev: ABS code=0 val=4175 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4175,2690) [filtered=0]
+ev: ABS code=57 val=-1 (slot=0)
+ev: KEY code=0x14a val=0
+ev: KEY code=0x145 val=0
+ev: SYN code=0
+ev: ABS code=57 val=61 (slot=0)
+ev: ABS code=53 val=509 (slot=0)
+ev: ABS code=54 val=2658 (slot=0)
+ev: KEY code=0x14a val=1
+ev: KEY code=0x145 val=1
+ev: ABS code=0 val=509 (slot=0)
+ev: ABS code=1 val=2658 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (509,2658) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (509,2658) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (509,2658) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (509,2658) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (509,2658) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (509,2658) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (509,2658) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (509,2658) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (509,2658) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (509,2658) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (509,2658) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (509,2658) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (509,2658) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (509,2658) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (509,2658) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (509,2658) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (509,2658) [filtered=0]
+ev: KEY code=0x110 val=1
+ev: SYN code=0
+cnt=1 s0=fng (509,2658) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (509,2658) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (509,2658) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (509,2658)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (509,2658)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (509,2658)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (509,2658)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (509,2658)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (509,2658)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (509,2658)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (509,2658)* [filtered=0]
+ev: ABS code=53 val=510 (slot=0)
+ev: ABS code=0 val=510 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (510,2658)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (510,2658)* [filtered=0]
+ev: ABS code=53 val=511 (slot=0)
+ev: ABS code=0 val=511 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (511,2658)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (511,2658)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (511,2658)* [filtered=0]
+ev: ABS code=53 val=512 (slot=0)
+ev: ABS code=0 val=512 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (512,2658)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (512,2658)* [filtered=0]
+ev: ABS code=53 val=513 (slot=0)
+ev: ABS code=0 val=513 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (513,2658)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (513,2658)* [filtered=0]
+ev: ABS code=53 val=514 (slot=0)
+ev: ABS code=0 val=514 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (514,2658)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (514,2658)* [filtered=0]
+ev: ABS code=53 val=515 (slot=0)
+ev: ABS code=0 val=515 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (515,2658)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (515,2658)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (515,2658)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (515,2658)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (515,2658)* [filtered=0]
+ev: KEY code=0x110 val=0
+ev: SYN code=0
+cnt=1 s0=fng (515,2658)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (515,2658)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (515,2658)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (515,2658)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (515,2658)* [filtered=0]
+ev: ABS code=53 val=514 (slot=0)
+ev: ABS code=0 val=514 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (514,2658)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (514,2658)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (514,2658)* [filtered=0]
+ev: ABS code=53 val=513 (slot=0)
+ev: ABS code=0 val=513 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (513,2658)* [filtered=0]
+ev: ABS code=53 val=512 (slot=0)
+ev: ABS code=0 val=512 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (512,2658)* [filtered=0]
+ev: ABS code=53 val=511 (slot=0)
+ev: ABS code=0 val=511 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (511,2658)* [filtered=0]
+ev: ABS code=53 val=510 (slot=0)
+ev: ABS code=0 val=510 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (510,2658)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (510,2658)* [filtered=0]
+ev: ABS code=57 val=-1 (slot=0)
+ev: KEY code=0x14a val=0
+ev: KEY code=0x145 val=0
+ev: SYN code=0
+ev: ABS code=57 val=62 (slot=0)
+ev: ABS code=53 val=2505 (slot=0)
+ev: ABS code=54 val=2644 (slot=0)
+ev: KEY code=0x14a val=1
+ev: KEY code=0x145 val=1
+ev: ABS code=0 val=2505 (slot=0)
+ev: ABS code=1 val=2644 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (2505,2644) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (2505,2644) [filtered=0]
+ev: ABS code=54 val=2643 (slot=0)
+ev: KEY code=0x110 val=1
+ev: ABS code=1 val=2643 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (2505,2643) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (2505,2643) [filtered=0]
+ev: ABS code=53 val=2504 (slot=0)
+ev: ABS code=0 val=2504 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (2504,2643) [filtered=0]
+ev: ABS code=53 val=2503 (slot=0)
+ev: ABS code=54 val=2642 (slot=0)
+ev: ABS code=0 val=2503 (slot=0)
+ev: ABS code=1 val=2642 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (2503,2642) [filtered=0]
+ev: ABS code=54 val=2641 (slot=0)
+ev: ABS code=1 val=2641 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (2503,2641) [filtered=0]
+ev: ABS code=53 val=2502 (slot=0)
+ev: ABS code=0 val=2502 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (2502,2641) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (2502,2641) [filtered=0]
+ev: ABS code=54 val=2640 (slot=0)
+ev: ABS code=1 val=2640 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (2502,2640) [filtered=0]
+ev: ABS code=53 val=2501 (slot=0)
+ev: ABS code=0 val=2501 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (2501,2640) [filtered=0]
+ev: ABS code=54 val=2639 (slot=0)
+ev: ABS code=1 val=2639 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (2501,2639) [filtered=0]
+ev: ABS code=53 val=2500 (slot=0)
+ev: ABS code=54 val=2638 (slot=0)
+ev: ABS code=0 val=2500 (slot=0)
+ev: ABS code=1 val=2638 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (2500,2638) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (2500,2638) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (2500,2638) [filtered=0]
+ev: ABS code=54 val=2637 (slot=0)
+ev: ABS code=1 val=2637 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (2500,2637) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (2500,2637) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (2500,2637) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (2500,2637) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (2500,2637) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (2500,2637)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (2500,2637)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (2500,2637)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (2500,2637)* [filtered=0]
+ev: ABS code=53 val=2501 (slot=0)
+ev: ABS code=0 val=2501 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (2501,2637)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (2501,2637)* [filtered=0]
+ev: ABS code=53 val=2502 (slot=0)
+ev: ABS code=0 val=2502 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (2502,2637)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (2502,2637)* [filtered=0]
+ev: ABS code=53 val=2503 (slot=0)
+ev: ABS code=0 val=2503 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (2503,2637)* [filtered=0]
+ev: ABS code=53 val=2504 (slot=0)
+ev: ABS code=0 val=2504 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (2504,2637)* [filtered=0]
+ev: ABS code=53 val=2505 (slot=0)
+ev: ABS code=0 val=2505 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (2505,2637)* [filtered=0]
+ev: ABS code=53 val=2506 (slot=0)
+ev: ABS code=0 val=2506 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (2506,2637)* [filtered=0]
+ev: ABS code=53 val=2507 (slot=0)
+ev: KEY code=0x110 val=0
+ev: ABS code=0 val=2507 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (2507,2637)* [filtered=0]
+ev: ABS code=53 val=2508 (slot=0)
+ev: ABS code=0 val=2508 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (2508,2637)* [filtered=0]
+ev: ABS code=53 val=2510 (slot=0)
+ev: ABS code=0 val=2510 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (2510,2637)* [filtered=0]
+ev: ABS code=53 val=2511 (slot=0)
+ev: ABS code=54 val=2638 (slot=0)
+ev: ABS code=0 val=2511 (slot=0)
+ev: ABS code=1 val=2638 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (2511,2638)* [filtered=0]
+ev: ABS code=53 val=2512 (slot=0)
+ev: ABS code=0 val=2512 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (2512,2638)* [filtered=0]
+ev: ABS code=53 val=2514 (slot=0)
+ev: ABS code=0 val=2514 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (2514,2638)* [filtered=0]
+ev: ABS code=53 val=2517 (slot=0)
+ev: ABS code=54 val=2639 (slot=0)
+ev: ABS code=0 val=2517 (slot=0)
+ev: ABS code=1 val=2639 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (2517,2639) [filtered=0]
+ev: ABS code=53 val=2521 (slot=0)
+ev: ABS code=54 val=2641 (slot=0)
+ev: ABS code=0 val=2521 (slot=0)
+ev: ABS code=1 val=2641 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (2521,2641) [filtered=0]
+ev: ABS code=53 val=2527 (slot=0)
+ev: ABS code=54 val=2643 (slot=0)
+ev: ABS code=0 val=2527 (slot=0)
+ev: ABS code=1 val=2643 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (2527,2643) [filtered=0]
+ev: ABS code=53 val=2532 (slot=0)
+ev: ABS code=54 val=2645 (slot=0)
+ev: ABS code=0 val=2532 (slot=0)
+ev: ABS code=1 val=2645 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (2532,2645) [filtered=0]
+ev: ABS code=53 val=2536 (slot=0)
+ev: ABS code=54 val=2646 (slot=0)
+ev: ABS code=0 val=2536 (slot=0)
+ev: ABS code=1 val=2646 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (2536,2646) [filtered=0]
+ev: ABS code=57 val=-1 (slot=0)
+ev: KEY code=0x14a val=0
+ev: KEY code=0x145 val=0
+ev: SYN code=0
+ev: ABS code=57 val=63 (slot=0)
+ev: ABS code=53 val=4160 (slot=0)
+ev: ABS code=54 val=2764 (slot=0)
+ev: KEY code=0x14a val=1
+ev: KEY code=0x145 val=1
+ev: ABS code=0 val=4160 (slot=0)
+ev: ABS code=1 val=2764 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4160,2764) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4160,2764) [filtered=0]
+ev: KEY code=0x110 val=1
+ev: SYN code=0
+cnt=1 s0=fng (4160,2764) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4160,2764) [filtered=0]
+ev: ABS code=53 val=4159 (slot=0)
+ev: ABS code=54 val=2763 (slot=0)
+ev: ABS code=0 val=4159 (slot=0)
+ev: ABS code=1 val=2763 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4159,2763) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4159,2763) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4159,2763) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4159,2763) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4159,2763) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4159,2763) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4159,2763) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4159,2763) [filtered=0]
+ev: ABS code=54 val=2764 (slot=0)
+ev: ABS code=1 val=2764 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4159,2764) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4159,2764) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4159,2764) [filtered=0]
+ev: ABS code=54 val=2765 (slot=0)
+ev: ABS code=1 val=2765 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4159,2765) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4159,2765) [filtered=0]
+ev: ABS code=54 val=2766 (slot=0)
+ev: ABS code=1 val=2766 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4159,2766) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4159,2766) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4159,2766) [filtered=0]
+ev: ABS code=54 val=2767 (slot=0)
+ev: ABS code=1 val=2767 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4159,2767)* [filtered=0]
+ev: ABS code=54 val=2768 (slot=0)
+ev: ABS code=1 val=2768 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4159,2768)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4159,2768)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4159,2768)* [filtered=0]
+ev: ABS code=54 val=2769 (slot=0)
+ev: ABS code=1 val=2769 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4159,2769)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4159,2769)* [filtered=0]
+ev: ABS code=54 val=2770 (slot=0)
+ev: ABS code=1 val=2770 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4159,2770)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4159,2770)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4159,2770)* [filtered=0]
+ev: ABS code=54 val=2771 (slot=0)
+ev: ABS code=1 val=2771 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4159,2771)* [filtered=0]
+ev: ABS code=54 val=2772 (slot=0)
+ev: ABS code=1 val=2772 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4159,2772)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4159,2772)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4159,2772)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4159,2772)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4159,2772)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4159,2772)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4159,2772)* [filtered=0]
+ev: ABS code=53 val=4158 (slot=0)
+ev: KEY code=0x110 val=0
+ev: ABS code=0 val=4158 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4158,2772)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4158,2772)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4158,2772)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4158,2772)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4158,2772)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4158,2772)* [filtered=0]
+ev: ABS code=53 val=4159 (slot=0)
+ev: ABS code=54 val=2773 (slot=0)
+ev: ABS code=0 val=4159 (slot=0)
+ev: ABS code=1 val=2773 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4159,2773)* [filtered=0]
+ev: ABS code=53 val=4161 (slot=0)
+ev: ABS code=54 val=2775 (slot=0)
+ev: ABS code=0 val=4161 (slot=0)
+ev: ABS code=1 val=2775 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4161,2775) [filtered=0]
+ev: ABS code=53 val=4163 (slot=0)
+ev: ABS code=54 val=2777 (slot=0)
+ev: ABS code=0 val=4163 (slot=0)
+ev: ABS code=1 val=2777 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4163,2777) [filtered=0]
+ev: ABS code=53 val=4164 (slot=0)
+ev: ABS code=54 val=2778 (slot=0)
+ev: ABS code=0 val=4164 (slot=0)
+ev: ABS code=1 val=2778 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4164,2778) [filtered=0]
+ev: ABS code=53 val=4166 (slot=0)
+ev: ABS code=54 val=2780 (slot=0)
+ev: ABS code=0 val=4166 (slot=0)
+ev: ABS code=1 val=2780 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4166,2780) [filtered=0]
+ev: ABS code=57 val=-1 (slot=0)
+ev: KEY code=0x14a val=0
+ev: KEY code=0x145 val=0
+ev: SYN code=0
+ev: ABS code=57 val=64 (slot=0)
+ev: ABS code=53 val=4660 (slot=0)
+ev: ABS code=54 val=1989 (slot=0)
+ev: KEY code=0x14a val=1
+ev: KEY code=0x145 val=1
+ev: ABS code=0 val=4660 (slot=0)
+ev: ABS code=1 val=1989 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4660,1989) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4660,1989) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4660,1989) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4660,1989) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4660,1989) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4660,1989) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4660,1989) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4660,1989) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4660,1989) [filtered=0]
+ev: ABS code=54 val=1990 (slot=0)
+ev: ABS code=1 val=1990 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4660,1990) [filtered=0]
+ev: ABS code=54 val=1991 (slot=0)
+ev: ABS code=1 val=1991 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4660,1991) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4660,1991) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4660,1991) [filtered=0]
+ev: ABS code=54 val=1992 (slot=0)
+ev: ABS code=1 val=1992 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4660,1992) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4660,1992) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4660,1992) [filtered=0]
+ev: ABS code=54 val=1993 (slot=0)
+ev: ABS code=1 val=1993 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4660,1993) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4660,1993) [filtered=0]
+ev: ABS code=54 val=1994 (slot=0)
+ev: ABS code=1 val=1994 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4660,1994) [filtered=0]
+ev: ABS code=54 val=1995 (slot=0)
+ev: ABS code=1 val=1995 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4660,1995) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4660,1995)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4660,1995)* [filtered=0]
+ev: ABS code=54 val=1996 (slot=0)
+ev: ABS code=1 val=1996 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4660,1996)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4660,1996)* [filtered=0]
+ev: ABS code=53 val=4661 (slot=0)
+ev: ABS code=0 val=4661 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4661,1996)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4661,1996)* [filtered=0]
+ev: ABS code=54 val=1997 (slot=0)
+ev: ABS code=1 val=1997 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4661,1997)* [filtered=0]
+ev: ABS code=53 val=4662 (slot=0)
+ev: ABS code=0 val=4662 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4662,1997)* [filtered=0]
+ev: ABS code=53 val=4663 (slot=0)
+ev: ABS code=0 val=4663 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4663,1997)* [filtered=0]
+ev: ABS code=53 val=4664 (slot=0)
+ev: ABS code=54 val=1998 (slot=0)
+ev: ABS code=0 val=4664 (slot=0)
+ev: ABS code=1 val=1998 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4664,1998)* [filtered=0]
+ev: ABS code=53 val=4665 (slot=0)
+ev: ABS code=0 val=4665 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4665,1998)* [filtered=0]
+ev: ABS code=53 val=4666 (slot=0)
+ev: ABS code=0 val=4666 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4666,1998)* [filtered=0]
+ev: ABS code=53 val=4667 (slot=0)
+ev: ABS code=0 val=4667 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4667,1998)* [filtered=0]
+ev: ABS code=53 val=4668 (slot=0)
+ev: ABS code=0 val=4668 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4668,1998)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4668,1998)* [filtered=0]
+ev: ABS code=53 val=4669 (slot=0)
+ev: ABS code=0 val=4669 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4669,1998)* [filtered=0]
+ev: ABS code=53 val=4670 (slot=0)
+ev: ABS code=54 val=1999 (slot=0)
+ev: ABS code=0 val=4670 (slot=0)
+ev: ABS code=1 val=1999 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4670,1999)* [filtered=0]
+ev: ABS code=53 val=4671 (slot=0)
+ev: ABS code=0 val=4671 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4671,1999)* [filtered=0]
+ev: ABS code=54 val=2000 (slot=0)
+ev: ABS code=1 val=2000 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4671,2000)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4671,2000)* [filtered=0]
+ev: ABS code=53 val=4672 (slot=0)
+ev: ABS code=0 val=4672 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4672,2000)* [filtered=0]
+ev: ABS code=53 val=4673 (slot=0)
+ev: ABS code=54 val=2001 (slot=0)
+ev: ABS code=0 val=4673 (slot=0)
+ev: ABS code=1 val=2001 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4673,2001)* [filtered=0]
+ev: ABS code=53 val=4674 (slot=0)
+ev: ABS code=54 val=2002 (slot=0)
+ev: ABS code=0 val=4674 (slot=0)
+ev: ABS code=1 val=2002 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4674,2002)* [filtered=0]
+ev: ABS code=53 val=4675 (slot=0)
+ev: ABS code=54 val=2003 (slot=0)
+ev: ABS code=0 val=4675 (slot=0)
+ev: ABS code=1 val=2003 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4675,2003)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4675,2003)* [filtered=0]
+ev: ABS code=54 val=2004 (slot=0)
+ev: ABS code=1 val=2004 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4675,2004)* [filtered=0]
+ev: ABS code=54 val=2005 (slot=0)
+ev: ABS code=1 val=2005 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4675,2005)* [filtered=0]
+ev: ABS code=54 val=2006 (slot=0)
+ev: ABS code=1 val=2006 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4675,2006)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4675,2006)* [filtered=0]
+ev: ABS code=53 val=4676 (slot=0)
+ev: ABS code=54 val=2007 (slot=0)
+ev: ABS code=0 val=4676 (slot=0)
+ev: ABS code=1 val=2007 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4676,2007)* [filtered=0]
+ev: ABS code=54 val=2008 (slot=0)
+ev: ABS code=1 val=2008 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4676,2008)* [filtered=0]
+ev: ABS code=54 val=2009 (slot=0)
+ev: ABS code=1 val=2009 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4676,2009)* [filtered=0]
+ev: ABS code=54 val=2010 (slot=0)
+ev: ABS code=1 val=2010 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4676,2010)* [filtered=0]
+ev: ABS code=57 val=-1 (slot=0)
+ev: KEY code=0x14a val=0
+ev: KEY code=0x145 val=0
+ev: SYN code=0
+ev: ABS code=57 val=65 (slot=0)
+ev: ABS code=53 val=6 (slot=0)
+ev: ABS code=54 val=2353 (slot=0)
+ev: KEY code=0x14a val=1
+ev: KEY code=0x145 val=1
+ev: ABS code=0 val=6 (slot=0)
+ev: ABS code=1 val=2353 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (6,2353) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (6,2353) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (6,2353) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (6,2353) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (6,2353) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (6,2353) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (6,2353) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (6,2353) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (6,2353) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (6,2353) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (6,2353) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (6,2353) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (6,2353) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (6,2353) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (6,2353) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (6,2353) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (6,2353) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (6,2353) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (6,2353) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (6,2353) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (6,2353)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (6,2353)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (6,2353)* [filtered=0]
+ev: ABS code=57 val=-1 (slot=0)
+ev: KEY code=0x14a val=0
+ev: KEY code=0x145 val=0
+ev: SYN code=0
+ev: ABS code=57 val=66 (slot=0)
+ev: ABS code=53 val=4678 (slot=0)
+ev: ABS code=54 val=1891 (slot=0)
+ev: KEY code=0x14a val=1
+ev: KEY code=0x145 val=1
+ev: ABS code=0 val=4678 (slot=0)
+ev: ABS code=1 val=1891 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4678,1891) [filtered=0]
+ev: ABS code=54 val=1890 (slot=0)
+ev: ABS code=1 val=1890 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4678,1890) [filtered=0]
+ev: ABS code=53 val=4677 (slot=0)
+ev: ABS code=0 val=4677 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4677,1890) [filtered=0]
+ev: ABS code=53 val=4676 (slot=0)
+ev: ABS code=54 val=1889 (slot=0)
+ev: ABS code=0 val=4676 (slot=0)
+ev: ABS code=1 val=1889 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4676,1889) [filtered=0]
+ev: ABS code=53 val=4675 (slot=0)
+ev: ABS code=0 val=4675 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4675,1889) [filtered=0]
+ev: ABS code=53 val=4671 (slot=0)
+ev: ABS code=54 val=1887 (slot=0)
+ev: ABS code=0 val=4671 (slot=0)
+ev: ABS code=1 val=1887 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4671,1887) [filtered=0]
+ev: ABS code=55 val=2 (slot=0)
+ev: ABS code=53 val=4665 (slot=0)
+ev: ABS code=54 val=1884 (slot=0)
+ev: ABS code=0 val=4665 (slot=0)
+ev: ABS code=1 val=1884 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4665,1884) [filtered=0]
+ev: ABS code=53 val=4656 (slot=0)
+ev: ABS code=54 val=1880 (slot=0)
+ev: ABS code=0 val=4656 (slot=0)
+ev: ABS code=1 val=1880 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4656,1880) [filtered=0]
+ev: ABS code=53 val=4647 (slot=0)
+ev: ABS code=54 val=1877 (slot=0)
+ev: ABS code=0 val=4647 (slot=0)
+ev: ABS code=1 val=1877 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4647,1877) [filtered=0]
+ev: ABS code=53 val=4638 (slot=0)
+ev: ABS code=54 val=1873 (slot=0)
+ev: ABS code=0 val=4638 (slot=0)
+ev: ABS code=1 val=1873 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4638,1873) [filtered=0]
+ev: ABS code=53 val=4628 (slot=0)
+ev: ABS code=54 val=1869 (slot=0)
+ev: ABS code=0 val=4628 (slot=0)
+ev: ABS code=1 val=1869 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4628,1869) [filtered=0]
+ev: ABS code=53 val=4619 (slot=0)
+ev: ABS code=54 val=1865 (slot=0)
+ev: ABS code=0 val=4619 (slot=0)
+ev: ABS code=1 val=1865 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4619,1865) [filtered=0]
+ev: ABS code=53 val=4610 (slot=0)
+ev: ABS code=54 val=1862 (slot=0)
+ev: ABS code=0 val=4610 (slot=0)
+ev: ABS code=1 val=1862 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4610,1862) [filtered=0]
+ev: ABS code=53 val=4602 (slot=0)
+ev: ABS code=54 val=1860 (slot=0)
+ev: ABS code=0 val=4602 (slot=0)
+ev: ABS code=1 val=1860 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4602,1860) [filtered=0]
+ev: ABS code=53 val=4597 (slot=0)
+ev: ABS code=54 val=1857 (slot=0)
+ev: ABS code=0 val=4597 (slot=0)
+ev: ABS code=1 val=1857 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4597,1857) [filtered=0]
+ev: ABS code=53 val=4592 (slot=0)
+ev: ABS code=54 val=1854 (slot=0)
+ev: ABS code=0 val=4592 (slot=0)
+ev: ABS code=1 val=1854 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4592,1854) [filtered=0]
+ev: ABS code=53 val=4588 (slot=0)
+ev: ABS code=54 val=1852 (slot=0)
+ev: ABS code=0 val=4588 (slot=0)
+ev: ABS code=1 val=1852 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4588,1852) [filtered=0]
+ev: ABS code=53 val=4585 (slot=0)
+ev: ABS code=54 val=1850 (slot=0)
+ev: ABS code=0 val=4585 (slot=0)
+ev: ABS code=1 val=1850 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4585,1850) [filtered=0]
+ev: ABS code=53 val=4583 (slot=0)
+ev: ABS code=54 val=1849 (slot=0)
+ev: ABS code=0 val=4583 (slot=0)
+ev: ABS code=1 val=1849 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4583,1849) [filtered=0]
+ev: ABS code=53 val=4582 (slot=0)
+ev: ABS code=54 val=1847 (slot=0)
+ev: ABS code=0 val=4582 (slot=0)
+ev: ABS code=1 val=1847 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4582,1847) [filtered=0]
+ev: ABS code=53 val=4580 (slot=0)
+ev: ABS code=54 val=1845 (slot=0)
+ev: ABS code=0 val=4580 (slot=0)
+ev: ABS code=1 val=1845 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4580,1845) [filtered=0]
+ev: ABS code=53 val=4577 (slot=0)
+ev: ABS code=54 val=1843 (slot=0)
+ev: ABS code=0 val=4577 (slot=0)
+ev: ABS code=1 val=1843 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4577,1843) [filtered=0]
+ev: ABS code=53 val=4574 (slot=0)
+ev: ABS code=54 val=1842 (slot=0)
+ev: ABS code=0 val=4574 (slot=0)
+ev: ABS code=1 val=1842 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4574,1842) [filtered=0]
+ev: ABS code=53 val=4573 (slot=0)
+ev: ABS code=54 val=1841 (slot=0)
+ev: ABS code=0 val=4573 (slot=0)
+ev: ABS code=1 val=1841 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4573,1841) [filtered=0]
+ev: ABS code=53 val=4571 (slot=0)
+ev: ABS code=54 val=1840 (slot=0)
+ev: ABS code=0 val=4571 (slot=0)
+ev: ABS code=1 val=1840 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4571,1840) [filtered=0]
+ev: ABS code=53 val=4568 (slot=0)
+ev: ABS code=54 val=1839 (slot=0)
+ev: ABS code=0 val=4568 (slot=0)
+ev: ABS code=1 val=1839 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4568,1839) [filtered=0]
+ev: ABS code=53 val=4566 (slot=0)
+ev: ABS code=54 val=1838 (slot=0)
+ev: ABS code=0 val=4566 (slot=0)
+ev: ABS code=1 val=1838 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4566,1838) [filtered=0]
+ev: ABS code=53 val=4565 (slot=0)
+ev: ABS code=54 val=1837 (slot=0)
+ev: ABS code=0 val=4565 (slot=0)
+ev: ABS code=1 val=1837 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4565,1837) [filtered=0]
+ev: ABS code=53 val=4563 (slot=0)
+ev: ABS code=54 val=1836 (slot=0)
+ev: ABS code=0 val=4563 (slot=0)
+ev: ABS code=1 val=1836 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4563,1836) [filtered=0]
+ev: ABS code=53 val=4561 (slot=0)
+ev: ABS code=54 val=1835 (slot=0)
+ev: ABS code=0 val=4561 (slot=0)
+ev: ABS code=1 val=1835 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4561,1835) [filtered=0]
+ev: ABS code=53 val=4559 (slot=0)
+ev: ABS code=0 val=4559 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4559,1835) [filtered=0]
+ev: ABS code=53 val=4557 (slot=0)
+ev: ABS code=0 val=4557 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4557,1835) [filtered=0]
+ev: ABS code=53 val=4556 (slot=0)
+ev: ABS code=0 val=4556 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4556,1835) [filtered=0]
+ev: ABS code=53 val=4555 (slot=0)
+ev: ABS code=54 val=1836 (slot=0)
+ev: ABS code=0 val=4555 (slot=0)
+ev: ABS code=1 val=1836 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4555,1836) [filtered=0]
+ev: ABS code=53 val=4554 (slot=0)
+ev: ABS code=54 val=1837 (slot=0)
+ev: ABS code=0 val=4554 (slot=0)
+ev: ABS code=1 val=1837 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4554,1837) [filtered=0]
+ev: ABS code=54 val=1838 (slot=0)
+ev: ABS code=1 val=1838 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4554,1838) [filtered=0]
+ev: ABS code=54 val=1839 (slot=0)
+ev: ABS code=1 val=1839 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4554,1839) [filtered=0]
+ev: ABS code=54 val=1840 (slot=0)
+ev: ABS code=1 val=1840 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4554,1840) [filtered=0]
+ev: ABS code=54 val=1841 (slot=0)
+ev: ABS code=1 val=1841 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4554,1841) [filtered=0]
+ev: ABS code=53 val=4555 (slot=0)
+ev: ABS code=54 val=1843 (slot=0)
+ev: ABS code=0 val=4555 (slot=0)
+ev: ABS code=1 val=1843 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4555,1843) [filtered=0]
+ev: ABS code=53 val=4556 (slot=0)
+ev: ABS code=54 val=1846 (slot=0)
+ev: ABS code=0 val=4556 (slot=0)
+ev: ABS code=1 val=1846 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4556,1846) [filtered=0]
+ev: ABS code=54 val=1847 (slot=0)
+ev: ABS code=1 val=1847 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4556,1847) [filtered=0]
+ev: ABS code=53 val=4557 (slot=0)
+ev: ABS code=54 val=1849 (slot=0)
+ev: ABS code=0 val=4557 (slot=0)
+ev: ABS code=1 val=1849 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4557,1849) [filtered=0]
+ev: ABS code=53 val=4558 (slot=0)
+ev: ABS code=54 val=1852 (slot=0)
+ev: ABS code=0 val=4558 (slot=0)
+ev: ABS code=1 val=1852 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4558,1852) [filtered=0]
+ev: ABS code=53 val=4559 (slot=0)
+ev: ABS code=54 val=1855 (slot=0)
+ev: ABS code=0 val=4559 (slot=0)
+ev: ABS code=1 val=1855 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4559,1855) [filtered=0]
+ev: ABS code=53 val=4561 (slot=0)
+ev: ABS code=54 val=1858 (slot=0)
+ev: ABS code=0 val=4561 (slot=0)
+ev: ABS code=1 val=1858 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4561,1858) [filtered=0]
+ev: ABS code=53 val=4562 (slot=0)
+ev: ABS code=54 val=1860 (slot=0)
+ev: ABS code=0 val=4562 (slot=0)
+ev: ABS code=1 val=1860 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4562,1860) [filtered=0]
+ev: ABS code=53 val=4563 (slot=0)
+ev: ABS code=54 val=1863 (slot=0)
+ev: ABS code=0 val=4563 (slot=0)
+ev: ABS code=1 val=1863 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4563,1863) [filtered=0]
+ev: ABS code=53 val=4564 (slot=0)
+ev: ABS code=54 val=1866 (slot=0)
+ev: ABS code=0 val=4564 (slot=0)
+ev: ABS code=1 val=1866 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4564,1866) [filtered=0]
+ev: ABS code=53 val=4566 (slot=0)
+ev: ABS code=54 val=1870 (slot=0)
+ev: ABS code=0 val=4566 (slot=0)
+ev: ABS code=1 val=1870 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4566,1870) [filtered=0]
+ev: ABS code=53 val=4568 (slot=0)
+ev: ABS code=54 val=1874 (slot=0)
+ev: ABS code=0 val=4568 (slot=0)
+ev: ABS code=1 val=1874 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4568,1874) [filtered=0]
+ev: ABS code=53 val=4569 (slot=0)
+ev: ABS code=54 val=1876 (slot=0)
+ev: ABS code=0 val=4569 (slot=0)
+ev: ABS code=1 val=1876 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4569,1876) [filtered=0]
+ev: ABS code=53 val=4570 (slot=0)
+ev: ABS code=54 val=1879 (slot=0)
+ev: ABS code=0 val=4570 (slot=0)
+ev: ABS code=1 val=1879 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4570,1879) [filtered=0]
+ev: ABS code=53 val=4572 (slot=0)
+ev: ABS code=54 val=1882 (slot=0)
+ev: ABS code=0 val=4572 (slot=0)
+ev: ABS code=1 val=1882 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4572,1882) [filtered=0]
+ev: ABS code=53 val=4574 (slot=0)
+ev: ABS code=54 val=1886 (slot=0)
+ev: ABS code=0 val=4574 (slot=0)
+ev: ABS code=1 val=1886 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4574,1886) [filtered=0]
+ev: ABS code=53 val=4576 (slot=0)
+ev: ABS code=54 val=1890 (slot=0)
+ev: ABS code=0 val=4576 (slot=0)
+ev: ABS code=1 val=1890 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4576,1890) [filtered=0]
+ev: ABS code=53 val=4577 (slot=0)
+ev: ABS code=54 val=1892 (slot=0)
+ev: ABS code=0 val=4577 (slot=0)
+ev: ABS code=1 val=1892 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4577,1892) [filtered=0]
+ev: ABS code=53 val=4578 (slot=0)
+ev: ABS code=54 val=1895 (slot=0)
+ev: ABS code=0 val=4578 (slot=0)
+ev: ABS code=1 val=1895 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4578,1895) [filtered=0]
+ev: ABS code=53 val=4580 (slot=0)
+ev: ABS code=54 val=1898 (slot=0)
+ev: ABS code=0 val=4580 (slot=0)
+ev: ABS code=1 val=1898 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4580,1898) [filtered=0]
+ev: ABS code=53 val=4582 (slot=0)
+ev: ABS code=54 val=1901 (slot=0)
+ev: ABS code=0 val=4582 (slot=0)
+ev: ABS code=1 val=1901 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4582,1901) [filtered=0]
+ev: ABS code=53 val=4583 (slot=0)
+ev: ABS code=54 val=1903 (slot=0)
+ev: ABS code=0 val=4583 (slot=0)
+ev: ABS code=1 val=1903 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4583,1903) [filtered=0]
+ev: ABS code=53 val=4585 (slot=0)
+ev: ABS code=54 val=1905 (slot=0)
+ev: ABS code=0 val=4585 (slot=0)
+ev: ABS code=1 val=1905 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4585,1905) [filtered=0]
+ev: ABS code=53 val=4587 (slot=0)
+ev: ABS code=54 val=1907 (slot=0)
+ev: ABS code=0 val=4587 (slot=0)
+ev: ABS code=1 val=1907 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4587,1907) [filtered=0]
+ev: ABS code=53 val=4589 (slot=0)
+ev: ABS code=54 val=1909 (slot=0)
+ev: ABS code=0 val=4589 (slot=0)
+ev: ABS code=1 val=1909 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4589,1909) [filtered=0]
+ev: ABS code=53 val=4591 (slot=0)
+ev: ABS code=54 val=1911 (slot=0)
+ev: ABS code=0 val=4591 (slot=0)
+ev: ABS code=1 val=1911 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4591,1911) [filtered=0]
+ev: ABS code=53 val=4592 (slot=0)
+ev: ABS code=0 val=4592 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4592,1911) [filtered=0]
+ev: ABS code=53 val=4593 (slot=0)
+ev: ABS code=54 val=1913 (slot=0)
+ev: ABS code=0 val=4593 (slot=0)
+ev: ABS code=1 val=1913 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4593,1913) [filtered=0]
+ev: ABS code=53 val=4594 (slot=0)
+ev: ABS code=54 val=1914 (slot=0)
+ev: ABS code=0 val=4594 (slot=0)
+ev: ABS code=1 val=1914 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4594,1914) [filtered=0]
+ev: ABS code=53 val=4596 (slot=0)
+ev: ABS code=54 val=1915 (slot=0)
+ev: ABS code=0 val=4596 (slot=0)
+ev: ABS code=1 val=1915 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4596,1915) [filtered=0]
+ev: ABS code=53 val=4598 (slot=0)
+ev: ABS code=54 val=1916 (slot=0)
+ev: ABS code=0 val=4598 (slot=0)
+ev: ABS code=1 val=1916 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4598,1916) [filtered=0]
+ev: ABS code=53 val=4599 (slot=0)
+ev: ABS code=54 val=1917 (slot=0)
+ev: ABS code=0 val=4599 (slot=0)
+ev: ABS code=1 val=1917 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4599,1917) [filtered=0]
+ev: ABS code=53 val=4600 (slot=0)
+ev: ABS code=0 val=4600 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4600,1917) [filtered=0]
+ev: ABS code=53 val=4602 (slot=0)
+ev: ABS code=0 val=4602 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4602,1917) [filtered=0]
+ev: ABS code=53 val=4605 (slot=0)
+ev: ABS code=54 val=1918 (slot=0)
+ev: ABS code=0 val=4605 (slot=0)
+ev: ABS code=1 val=1918 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4605,1918) [filtered=0]
+ev: ABS code=53 val=4606 (slot=0)
+ev: ABS code=0 val=4606 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4606,1918) [filtered=0]
+ev: ABS code=53 val=4608 (slot=0)
+ev: ABS code=0 val=4608 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4608,1918) [filtered=0]
+ev: ABS code=53 val=4610 (slot=0)
+ev: ABS code=0 val=4610 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4610,1918) [filtered=0]
+ev: ABS code=53 val=4612 (slot=0)
+ev: ABS code=0 val=4612 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4612,1918) [filtered=0]
+ev: ABS code=53 val=4614 (slot=0)
+ev: ABS code=0 val=4614 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4614,1918) [filtered=0]
+ev: ABS code=53 val=4615 (slot=0)
+ev: ABS code=0 val=4615 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4615,1918) [filtered=0]
+ev: ABS code=53 val=4616 (slot=0)
+ev: ABS code=0 val=4616 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4616,1918) [filtered=0]
+ev: ABS code=53 val=4617 (slot=0)
+ev: ABS code=0 val=4617 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4617,1918) [filtered=0]
+ev: ABS code=53 val=4618 (slot=0)
+ev: ABS code=0 val=4618 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4618,1918) [filtered=0]
+ev: ABS code=53 val=4620 (slot=0)
+ev: ABS code=0 val=4620 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4620,1918) [filtered=0]
+ev: ABS code=53 val=4621 (slot=0)
+ev: ABS code=0 val=4621 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4621,1918) [filtered=0]
+ev: ABS code=54 val=1917 (slot=0)
+ev: ABS code=1 val=1917 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4621,1917) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4621,1917) [filtered=0]
+ev: ABS code=54 val=1916 (slot=0)
+ev: ABS code=1 val=1916 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4621,1916) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4621,1916) [filtered=0]
+ev: ABS code=54 val=1915 (slot=0)
+ev: ABS code=1 val=1915 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4621,1915) [filtered=0]
+ev: ABS code=54 val=1914 (slot=0)
+ev: ABS code=1 val=1914 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4621,1914) [filtered=0]
+ev: ABS code=54 val=1913 (slot=0)
+ev: ABS code=1 val=1913 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4621,1913) [filtered=0]
+ev: ABS code=54 val=1911 (slot=0)
+ev: ABS code=1 val=1911 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4621,1911) [filtered=0]
+ev: ABS code=54 val=1910 (slot=0)
+ev: ABS code=1 val=1910 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4621,1910)* [filtered=0]
+ev: ABS code=53 val=4620 (slot=0)
+ev: ABS code=54 val=1909 (slot=0)
+ev: ABS code=0 val=4620 (slot=0)
+ev: ABS code=1 val=1909 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4620,1909)* [filtered=0]
+ev: ABS code=53 val=4619 (slot=0)
+ev: ABS code=54 val=1908 (slot=0)
+ev: ABS code=0 val=4619 (slot=0)
+ev: ABS code=1 val=1908 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4619,1908)* [filtered=0]
+ev: ABS code=53 val=4618 (slot=0)
+ev: ABS code=54 val=1906 (slot=0)
+ev: ABS code=0 val=4618 (slot=0)
+ev: ABS code=1 val=1906 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4618,1906)* [filtered=0]
+ev: ABS code=53 val=4617 (slot=0)
+ev: ABS code=54 val=1905 (slot=0)
+ev: ABS code=0 val=4617 (slot=0)
+ev: ABS code=1 val=1905 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4617,1905)* [filtered=0]
+ev: ABS code=53 val=4616 (slot=0)
+ev: ABS code=54 val=1904 (slot=0)
+ev: ABS code=0 val=4616 (slot=0)
+ev: ABS code=1 val=1904 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4616,1904)* [filtered=0]
+ev: ABS code=53 val=4615 (slot=0)
+ev: ABS code=54 val=1903 (slot=0)
+ev: ABS code=0 val=4615 (slot=0)
+ev: ABS code=1 val=1903 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4615,1903)* [filtered=0]
+ev: ABS code=53 val=4614 (slot=0)
+ev: ABS code=54 val=1902 (slot=0)
+ev: ABS code=0 val=4614 (slot=0)
+ev: ABS code=1 val=1902 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4614,1902)* [filtered=0]
+ev: ABS code=54 val=1900 (slot=0)
+ev: ABS code=1 val=1900 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4614,1900)* [filtered=0]
+ev: ABS code=54 val=1899 (slot=0)
+ev: ABS code=1 val=1899 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4614,1899)* [filtered=0]
+ev: ABS code=54 val=1898 (slot=0)
+ev: ABS code=1 val=1898 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4614,1898)* [filtered=0]
+ev: ABS code=53 val=4613 (slot=0)
+ev: ABS code=54 val=1897 (slot=0)
+ev: ABS code=0 val=4613 (slot=0)
+ev: ABS code=1 val=1897 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4613,1897)* [filtered=0]
+ev: ABS code=54 val=1896 (slot=0)
+ev: ABS code=1 val=1896 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4613,1896)* [filtered=0]
+ev: ABS code=54 val=1895 (slot=0)
+ev: ABS code=1 val=1895 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4613,1895)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4613,1895)* [filtered=0]
+ev: ABS code=54 val=1894 (slot=0)
+ev: ABS code=1 val=1894 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4613,1894)* [filtered=0]
+ev: ABS code=54 val=1893 (slot=0)
+ev: ABS code=1 val=1893 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4613,1893)* [filtered=0]
+ev: ABS code=54 val=1892 (slot=0)
+ev: ABS code=1 val=1892 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4613,1892)* [filtered=0]
+ev: ABS code=54 val=1891 (slot=0)
+ev: ABS code=1 val=1891 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4613,1891)* [filtered=0]
+ev: ABS code=54 val=1890 (slot=0)
+ev: ABS code=1 val=1890 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4613,1890)* [filtered=0]
+ev: ABS code=54 val=1889 (slot=0)
+ev: ABS code=1 val=1889 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4613,1889)* [filtered=0]
+ev: ABS code=54 val=1888 (slot=0)
+ev: ABS code=1 val=1888 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4613,1888)* [filtered=0]
+ev: ABS code=54 val=1887 (slot=0)
+ev: ABS code=1 val=1887 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4613,1887)* [filtered=0]
+ev: ABS code=53 val=4612 (slot=0)
+ev: ABS code=54 val=1886 (slot=0)
+ev: ABS code=0 val=4612 (slot=0)
+ev: ABS code=1 val=1886 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4612,1886)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4612,1886)* [filtered=0]
+ev: ABS code=54 val=1885 (slot=0)
+ev: ABS code=1 val=1885 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4612,1885)* [filtered=0]
+ev: ABS code=53 val=4611 (slot=0)
+ev: ABS code=54 val=1884 (slot=0)
+ev: ABS code=0 val=4611 (slot=0)
+ev: ABS code=1 val=1884 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4611,1884)* [filtered=0]
+ev: ABS code=53 val=4610 (slot=0)
+ev: ABS code=54 val=1883 (slot=0)
+ev: ABS code=0 val=4610 (slot=0)
+ev: ABS code=1 val=1883 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4610,1883)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4610,1883)* [filtered=0]
+ev: ABS code=53 val=4609 (slot=0)
+ev: ABS code=0 val=4609 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4609,1883)* [filtered=0]
+ev: ABS code=54 val=1882 (slot=0)
+ev: ABS code=1 val=1882 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4609,1882)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4609,1882)* [filtered=0]
+ev: ABS code=54 val=1881 (slot=0)
+ev: ABS code=1 val=1881 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4609,1881)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4609,1881)* [filtered=0]
+ev: ABS code=54 val=1880 (slot=0)
+ev: ABS code=1 val=1880 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4609,1880)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4609,1880)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4609,1880)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4609,1880)* [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4609,1880)* [filtered=0]
+ev: ABS code=53 val=4610 (slot=0)
+ev: ABS code=0 val=4610 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4610,1880)* [filtered=0]
+ev: ABS code=53 val=4611 (slot=0)
+ev: ABS code=0 val=4611 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4611,1880)* [filtered=0]
+ev: ABS code=53 val=4613 (slot=0)
+ev: ABS code=0 val=4613 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4613,1880)* [filtered=0]
+ev: ABS code=53 val=4615 (slot=0)
+ev: ABS code=0 val=4615 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4615,1880)* [filtered=0]
+ev: ABS code=53 val=4616 (slot=0)
+ev: ABS code=0 val=4616 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4616,1880)* [filtered=0]
+ev: ABS code=53 val=4617 (slot=0)
+ev: ABS code=0 val=4617 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4617,1880)* [filtered=0]
+ev: ABS code=53 val=4619 (slot=0)
+ev: ABS code=0 val=4619 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4619,1880)* [filtered=0]
+ev: ABS code=53 val=4621 (slot=0)
+ev: ABS code=0 val=4621 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4621,1880)* [filtered=0]
+ev: ABS code=53 val=4622 (slot=0)
+ev: ABS code=0 val=4622 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4622,1880)* [filtered=0]
+ev: ABS code=53 val=4624 (slot=0)
+ev: ABS code=0 val=4624 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4624,1880)* [filtered=0]
+ev: ABS code=53 val=4626 (slot=0)
+ev: ABS code=0 val=4626 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4626,1880)* [filtered=0]
+ev: ABS code=53 val=4628 (slot=0)
+ev: ABS code=0 val=4628 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4628,1880)* [filtered=0]
+ev: ABS code=53 val=4630 (slot=0)
+ev: ABS code=0 val=4630 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4630,1880)* [filtered=0]
+ev: ABS code=53 val=4631 (slot=0)
+ev: ABS code=0 val=4631 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4631,1880)* [filtered=0]
+ev: ABS code=53 val=4633 (slot=0)
+ev: ABS code=0 val=4633 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4633,1880)* [filtered=0]
+ev: ABS code=53 val=4635 (slot=0)
+ev: ABS code=0 val=4635 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4635,1880)* [filtered=0]
+ev: ABS code=53 val=4637 (slot=0)
+ev: ABS code=0 val=4637 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4637,1880)* [filtered=0]
+ev: ABS code=53 val=4639 (slot=0)
+ev: ABS code=54 val=1879 (slot=0)
+ev: ABS code=0 val=4639 (slot=0)
+ev: ABS code=1 val=1879 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4639,1879)* [filtered=0]
+ev: ABS code=53 val=4640 (slot=0)
+ev: ABS code=0 val=4640 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4640,1879)* [filtered=0]
+ev: ABS code=53 val=4642 (slot=0)
+ev: ABS code=0 val=4642 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4642,1879)* [filtered=0]
+ev: ABS code=53 val=4644 (slot=0)
+ev: ABS code=54 val=1878 (slot=0)
+ev: ABS code=0 val=4644 (slot=0)
+ev: ABS code=1 val=1878 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4644,1878)* [filtered=0]
+ev: ABS code=53 val=4646 (slot=0)
+ev: ABS code=54 val=1877 (slot=0)
+ev: ABS code=0 val=4646 (slot=0)
+ev: ABS code=1 val=1877 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4646,1877)* [filtered=0]
+ev: ABS code=53 val=4647 (slot=0)
+ev: ABS code=54 val=1876 (slot=0)
+ev: ABS code=0 val=4647 (slot=0)
+ev: ABS code=1 val=1876 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4647,1876)* [filtered=0]
+ev: ABS code=53 val=4648 (slot=0)
+ev: ABS code=54 val=1875 (slot=0)
+ev: ABS code=0 val=4648 (slot=0)
+ev: ABS code=1 val=1875 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4648,1875)* [filtered=0]
+ev: ABS code=53 val=4649 (slot=0)
+ev: ABS code=54 val=1874 (slot=0)
+ev: ABS code=0 val=4649 (slot=0)
+ev: ABS code=1 val=1874 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4649,1874)* [filtered=0]
+ev: ABS code=54 val=1872 (slot=0)
+ev: ABS code=1 val=1872 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4649,1872)* [filtered=0]
+ev: ABS code=54 val=1870 (slot=0)
+ev: ABS code=1 val=1870 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4649,1870)* [filtered=0]
+ev: ABS code=54 val=1869 (slot=0)
+ev: ABS code=1 val=1869 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4649,1869)* [filtered=0]
+ev: ABS code=54 val=1866 (slot=0)
+ev: ABS code=1 val=1866 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4649,1866)* [filtered=0]
+ev: ABS code=53 val=4648 (slot=0)
+ev: ABS code=54 val=1863 (slot=0)
+ev: ABS code=0 val=4648 (slot=0)
+ev: ABS code=1 val=1863 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4648,1863) [filtered=0]
+ev: ABS code=53 val=4646 (slot=0)
+ev: ABS code=54 val=1861 (slot=0)
+ev: ABS code=0 val=4646 (slot=0)
+ev: ABS code=1 val=1861 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4646,1861) [filtered=0]
+ev: ABS code=53 val=4644 (slot=0)
+ev: ABS code=54 val=1858 (slot=0)
+ev: ABS code=0 val=4644 (slot=0)
+ev: ABS code=1 val=1858 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4644,1858) [filtered=0]
+ev: ABS code=53 val=4643 (slot=0)
+ev: ABS code=54 val=1857 (slot=0)
+ev: ABS code=0 val=4643 (slot=0)
+ev: ABS code=1 val=1857 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4643,1857) [filtered=0]
+ev: ABS code=53 val=4639 (slot=0)
+ev: ABS code=54 val=1854 (slot=0)
+ev: ABS code=0 val=4639 (slot=0)
+ev: ABS code=1 val=1854 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4639,1854) [filtered=0]
+ev: ABS code=53 val=4634 (slot=0)
+ev: ABS code=54 val=1851 (slot=0)
+ev: ABS code=0 val=4634 (slot=0)
+ev: ABS code=1 val=1851 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4634,1851) [filtered=0]
+ev: ABS code=53 val=4627 (slot=0)
+ev: ABS code=54 val=1848 (slot=0)
+ev: ABS code=0 val=4627 (slot=0)
+ev: ABS code=1 val=1848 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4627,1848) [filtered=0]
+ev: ABS code=53 val=4621 (slot=0)
+ev: ABS code=54 val=1846 (slot=0)
+ev: ABS code=0 val=4621 (slot=0)
+ev: ABS code=1 val=1846 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4621,1846) [filtered=0]
+ev: ABS code=53 val=4614 (slot=0)
+ev: ABS code=54 val=1844 (slot=0)
+ev: ABS code=0 val=4614 (slot=0)
+ev: ABS code=1 val=1844 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4614,1844) [filtered=0]
+ev: ABS code=53 val=4607 (slot=0)
+ev: ABS code=54 val=1842 (slot=0)
+ev: ABS code=0 val=4607 (slot=0)
+ev: ABS code=1 val=1842 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4607,1842) [filtered=0]
+ev: ABS code=53 val=4602 (slot=0)
+ev: ABS code=54 val=1840 (slot=0)
+ev: ABS code=0 val=4602 (slot=0)
+ev: ABS code=1 val=1840 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4602,1840) [filtered=0]
+ev: ABS code=53 val=4597 (slot=0)
+ev: ABS code=54 val=1839 (slot=0)
+ev: ABS code=0 val=4597 (slot=0)
+ev: ABS code=1 val=1839 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4597,1839) [filtered=0]
+ev: ABS code=53 val=4594 (slot=0)
+ev: ABS code=54 val=1838 (slot=0)
+ev: ABS code=0 val=4594 (slot=0)
+ev: ABS code=1 val=1838 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4594,1838) [filtered=0]
+ev: ABS code=53 val=4591 (slot=0)
+ev: ABS code=54 val=1837 (slot=0)
+ev: ABS code=0 val=4591 (slot=0)
+ev: ABS code=1 val=1837 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4591,1837) [filtered=0]
+ev: ABS code=53 val=4589 (slot=0)
+ev: ABS code=0 val=4589 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4589,1837) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4589,1837) [filtered=0]
+ev: ABS code=53 val=4588 (slot=0)
+ev: ABS code=54 val=1838 (slot=0)
+ev: ABS code=0 val=4588 (slot=0)
+ev: ABS code=1 val=1838 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4588,1838) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4588,1838) [filtered=0]
+ev: ABS code=54 val=1839 (slot=0)
+ev: ABS code=1 val=1839 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4588,1839) [filtered=0]
+ev: ABS code=54 val=1841 (slot=0)
+ev: ABS code=1 val=1841 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4588,1841) [filtered=0]
+ev: ABS code=54 val=1844 (slot=0)
+ev: ABS code=1 val=1844 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4588,1844) [filtered=0]
+ev: ABS code=54 val=1846 (slot=0)
+ev: ABS code=1 val=1846 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4588,1846) [filtered=0]
+ev: ABS code=53 val=4589 (slot=0)
+ev: ABS code=54 val=1850 (slot=0)
+ev: ABS code=0 val=4589 (slot=0)
+ev: ABS code=1 val=1850 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4589,1850) [filtered=0]
+ev: ABS code=53 val=4590 (slot=0)
+ev: ABS code=54 val=1854 (slot=0)
+ev: ABS code=0 val=4590 (slot=0)
+ev: ABS code=1 val=1854 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4590,1854) [filtered=0]
+ev: ABS code=54 val=1859 (slot=0)
+ev: ABS code=1 val=1859 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4590,1859) [filtered=0]
+ev: ABS code=53 val=4591 (slot=0)
+ev: ABS code=54 val=1864 (slot=0)
+ev: ABS code=0 val=4591 (slot=0)
+ev: ABS code=1 val=1864 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4591,1864) [filtered=0]
+ev: ABS code=54 val=1869 (slot=0)
+ev: ABS code=1 val=1869 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4591,1869) [filtered=0]
+ev: ABS code=53 val=4592 (slot=0)
+ev: ABS code=54 val=1875 (slot=0)
+ev: ABS code=0 val=4592 (slot=0)
+ev: ABS code=1 val=1875 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4592,1875) [filtered=0]
+ev: ABS code=53 val=4593 (slot=0)
+ev: ABS code=54 val=1882 (slot=0)
+ev: ABS code=0 val=4593 (slot=0)
+ev: ABS code=1 val=1882 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4593,1882) [filtered=0]
+ev: ABS code=53 val=4595 (slot=0)
+ev: ABS code=54 val=1891 (slot=0)
+ev: ABS code=0 val=4595 (slot=0)
+ev: ABS code=1 val=1891 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4595,1891) [filtered=0]
+ev: ABS code=53 val=4597 (slot=0)
+ev: ABS code=54 val=1901 (slot=0)
+ev: ABS code=0 val=4597 (slot=0)
+ev: ABS code=1 val=1901 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4597,1901) [filtered=0]
+ev: ABS code=53 val=4598 (slot=0)
+ev: ABS code=54 val=1911 (slot=0)
+ev: ABS code=0 val=4598 (slot=0)
+ev: ABS code=1 val=1911 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4598,1911) [filtered=0]
+ev: ABS code=53 val=4602 (slot=0)
+ev: ABS code=54 val=1923 (slot=0)
+ev: ABS code=0 val=4602 (slot=0)
+ev: ABS code=1 val=1923 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4602,1923) [filtered=0]
+ev: ABS code=53 val=4607 (slot=0)
+ev: ABS code=54 val=1936 (slot=0)
+ev: ABS code=0 val=4607 (slot=0)
+ev: ABS code=1 val=1936 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4607,1936) [filtered=0]
+ev: ABS code=53 val=4612 (slot=0)
+ev: ABS code=54 val=1950 (slot=0)
+ev: ABS code=0 val=4612 (slot=0)
+ev: ABS code=1 val=1950 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4612,1950) [filtered=0]
+ev: ABS code=53 val=4619 (slot=0)
+ev: ABS code=54 val=1965 (slot=0)
+ev: ABS code=0 val=4619 (slot=0)
+ev: ABS code=1 val=1965 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4619,1965) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4619,1965) [filtered=0]
+ev: ABS code=57 val=-1 (slot=0)
+ev: KEY code=0x14a val=0
+ev: KEY code=0x145 val=0
+ev: SYN code=0
+ev: ABS code=57 val=67 (slot=0)
+ev: ABS code=53 val=4699 (slot=0)
+ev: ABS code=54 val=2356 (slot=0)
+ev: KEY code=0x14a val=1
+ev: KEY code=0x145 val=1
+ev: ABS code=0 val=4699 (slot=0)
+ev: ABS code=1 val=2356 (slot=0)
+ev: SYN code=0
+cnt=1 s0=fng (4699,2356) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4699,2356) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4699,2356) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4699,2356) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4699,2356) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4699,2356) [filtered=0]
+ev: SYN code=0
+cnt=1 s0=fng (4699,2356) [filtered=0]
+ev: ABS code=57 val=-1 (slot=0)
+ev: KEY code=0x14a val=0
+ev: KEY code=0x145 val=0
+ev: SYN code=0

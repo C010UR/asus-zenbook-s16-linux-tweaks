@@ -1,0 +1,4 @@
+touchpad: x[0..4762] y[0..3099] res=32,32 slots=5
+palm: bottom_zone=750 edge_left=190 edge_right=4571 spread=400
+virtual device created: ASUF1209 Palm Filtered Touchpad
+grabbed source device (exclusive)

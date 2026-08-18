@@ -1,0 +1,24 @@
+creating source uinput...
+source node: /dev/input/event21
+starting tpfilter on /dev/input/event21
+virtual node: /dev/input/event22
+
+--- one finger move (expect finger visible, no PALM) ---
+
+--- palm (far-left edge) + finger mid-pad ---
+
+--- release all ---
+
+=== tpfilter output ===
+touchpad: x[0..4762] y[0..3099] res=32,32 slots=5
+palm: edge=15% bottom_zone=1200 spread=400
+virtual device created: TPFILTER-TEST-408ca042
+grabbed source device (exclusive)
+cnt=1 s0=fng (2000,1500) [filtered=0]
+cnt=1 s0=fng (2040,1500) [filtered=0]
+cnt=1 s0=fng (2080,1500) [filtered=0]
+cnt=1 s0=fng (2120,1500) [filtered=0]
+cnt=1 s0=fng (2160,1500) [filtered=0]
+libevdev error in sanitize_event: BUG: Device "TPTEST Source Touchpad" received a double tracking ID 200 in slot 0.
+cnt=2 s0=PALM(200,2700) s1=fng (3500,1500) [filtered=1]
+

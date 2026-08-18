@@ -1,0 +1,8 @@
+Available devices:
+/dev/hidraw0: Shinetech ASUS FHD webcam
+/dev/hidraw1: Compx 2.4G Wireless Receiver
+/dev/hidraw2: Compx 2.4G Wireless Receiver
+/dev/hidraw3: Compx 2.4G Wireless Receiver
+/dev/hidraw4: ASUF1209:00 2808:0219
+/dev/hidraw5: hid-amdsfh 1022:0001
+/dev/hidraw6: LG Electronics Inc. LG Monitor Controls
