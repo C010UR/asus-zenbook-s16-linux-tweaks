@@ -1,6 +1,8 @@
 # Build artifacts
 tpfilter/tpfilter
 tpfilter/grab_probe
+__pycache__/
+*.pyc
 
 # Kernel module build artifacts
 *.ko

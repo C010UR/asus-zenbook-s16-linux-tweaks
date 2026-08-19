@@ -11,6 +11,8 @@ import os
 import struct
 import subprocess
 import sys
+import tempfile
+import threading
 import time
 
 
@@ -163,6 +165,16 @@ def mt_frame(fd, slots):
     emit(fd, out)
 
 
+def mt_update(fd, slots):
+    """update positions of already-active slots (no tracking-id re-emit)."""
+    out = []
+    for sid in slots:
+        out.append(ev(EV_ABS, ABS_MT_SLOT, sid))
+        out.append(ev(EV_ABS, ABS_MT_POSITION_X, slots[sid][0]))
+        out.append(ev(EV_ABS, ABS_MT_POSITION_Y, slots[sid][1]))
+    emit(fd, out)
+
+
 def main():
     print("creating source uinput...")
     src_fd = create_uinput(NAME_SOURCE)
@@ -170,7 +182,6 @@ def main():
     src_node = find_event_node(NAME_SOURCE)
     print("source node:", src_node)
 
-    print("starting tpfilter on", src_node)
     import uuid
     vname = "TPFILTER-TEST-%s" % uuid.uuid4().hex[:8]
     proc = subprocess.Popen(
@@ -178,6 +189,15 @@ def main():
          "--device", src_node, "--no-fork", "--debug", "--name", vname],
         stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
     time.sleep(0.5)
+
+    lines = []
+    def reader():
+        for raw in proc.stdout:
+            line = raw.decode(errors="replace").rstrip()
+            lines.append(line)
+            print("  [tpfilter] " + line, flush=True)
+    t = threading.Thread(target=reader, daemon=True)
+    t.start()
 
     # grab source (tpfilter does it, but we also want to make sure we write)
     virt_node = None
@@ -198,24 +218,69 @@ def main():
     # emit synthetic events
     print("\n--- one finger move (expect finger visible, no PALM) ---")
     mt_frame(src_fd, {0: (100, 2000, 1500)})
-    for x in range(2000, 2200, 40):
-        mt_frame(src_fd, {0: (100, x, 1500)})
+    for x in range(2040, 2200, 40):
+        mt_update(src_fd, {0: (x, 1500)})
+
+    print("\n--- release finger ---")
+    mt_frame(src_fd, {0: (-1, 0, 0)})
+    time.sleep(0.05)
 
     print("\n--- palm (far-left edge) + finger mid-pad ---")
     mt_frame(src_fd, {0: (200, 200, 2700), 1: (201, 3500, 1500)})
-    time.sleep(0.1)
-    mt_frame(src_fd, {0: (200, 200, 2700), 1: (201, 3500, 1500)})
+    time.sleep(0.15)  # let the edge contact become "resting" (> rest_ms)
+    mt_update(src_fd, {0: (200, 2700), 1: (3520, 1500)})  # move finger, keep palm still
     time.sleep(0.2)
 
     print("\n--- release all ---")
     mt_frame(src_fd, {})
     time.sleep(0.2)
 
+    print("tpfilter alive:", proc.poll() is None)
     proc.terminate()
-    out = proc.communicate(timeout=3)[0].decode()
+    proc.communicate(timeout=3)
+    out = "\n".join(lines)
     print("\n=== tpfilter output ===")
     print(out)
     os.close(src_fd)
+
+    if "PALM" not in out:
+        print("FAIL: palm contact was not classified as PALM")
+        return 1
+    print("OK: palm rejection works")
+
+    # config-file test: device + name + a distinctive palm_spread value
+    print("\n=== config file test ===")
+    vname2 = "TPFILTER-CONF-%s" % uuid.uuid4().hex[:8]
+    cfg = os.path.join(tempfile.gettempdir(), "tpfilter-test-%s.conf" % uuid.uuid4().hex[:8])
+    with open(cfg, "w") as f:
+        f.write("# test config\n")
+        f.write("device = %s\n" % src_node)
+        f.write("name = %s\n" % vname2)
+        f.write("palm_spread = 999\n")
+        f.write("debug = true\n")
+    proc2 = subprocess.Popen(
+        [sys.argv[1] if len(sys.argv) > 1 else "./tpfilter",
+         "--config", cfg, "--no-fork"],
+        stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
+    time.sleep(0.5)
+    virt_node2 = None
+    for _ in range(20):
+        virt_node2 = find_event_node(vname2)
+        if virt_node2:
+            break
+        time.sleep(0.2)
+    proc2.terminate()
+    out2 = proc2.communicate(timeout=3)[0].decode()
+    os.unlink(cfg)
+    print("virtual node:", virt_node2)
+    print(out2)
+    if not virt_node2:
+        print("FAIL: config-file virtual device not found")
+        return 1
+    if "spread=999" not in out2:
+        print("FAIL: config value palm_spread=999 not applied")
+        return 1
+    print("OK: config file parsed and applied")
     return 0
 
 

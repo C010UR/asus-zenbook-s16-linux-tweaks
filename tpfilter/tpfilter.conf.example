@@ -1,0 +1,41 @@
+# tpfilter configuration
+# Lines starting with '#' are comments. Format: key = value
+# Command-line flags override these values.
+
+# Source device path. Empty = auto-detect (ASUF1209 Touchpad).
+# device = /dev/input/event13
+
+# Virtual device name
+# name = ASUF1209 Palm Filtered Touchpad
+
+# Far-edge palm zone, percent of pad width from each side
+edge_pct = 15
+
+# Two contacts within this distance (units) form one palm
+palm_spread = 400
+
+# Bottom zone height (units) for the >=3-slot palm rule
+bottom_zone = 1200
+
+# A contact is "resting" after this many ms without significant movement
+rest_ms = 80
+
+# Movement (units) that counts as significant and resets the resting state
+rest_move = 100
+
+# With exactly two contacts, require the edge contact to be resting this many
+# ms before dropping it as a palm (0 = drop immediately)
+edge_rest_ms = 80
+
+# Keep a palm classified for this many ms after the rule stops matching
+# (hysteresis, prevents flicker)
+palm_latch_ms = 200
+
+# Advertise INPUT_PROP_BUTTONPAD on the virtual device
+buttonpad = true
+
+# Log per-frame classification to stderr
+debug = false
+
+# Log frame-level events to stderr
+verbose = false

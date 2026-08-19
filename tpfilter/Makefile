@@ -11,6 +11,7 @@ tpfilter: src/tpfilter.c
 install: tpfilter
 	install -Dm755 tpfilter $(DESTDIR)$(PREFIX)/bin/tpfilter
 	install -Dm644 systemd/tpfilter.service $(DESTDIR)$(PREFIX)/lib/systemd/system/tpfilter.service
+	test -f $(DESTDIR)/etc/tpfilter.conf || install -Dm644 tpfilter.conf.example $(DESTDIR)/etc/tpfilter.conf
 
 uninstall:
 	rm -f $(DESTDIR)$(PREFIX)/bin/tpfilter
